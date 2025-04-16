@@ -1,0 +1,13 @@
+C:\Users\Nickj\source\repos\EquipmentRental\EquipmentRental\wwwroot\css\app.css
+C:\Users\Nickj\source\repos\EquipmentRental\EquipmentRental\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Nickj\source\repos\EquipmentRental\EquipmentRental\wwwroot\index.html
+C:\Users\Nickj\source\repos\EquipmentRental\EquipmentRental\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\images\customer.png
+wwwroot\images\equipment.png
+wwwroot\images\rental.png
+wwwroot\images\report.png
+wwwroot\images\search.png
+wwwroot\index.html

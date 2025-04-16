@@ -1,0 +1,2577 @@
+{
+  "Version": 1,
+  "Hash": "wB+8tO2cQ7GzZHOcQVsu00CbjI6nJtBM08EfDel3wo4=",
+  "Source": "EquipmentRental",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EquipmentRental\\wwwroot",
+      "Source": "EquipmentRental",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\021e4bwrzk-quav3vvlcv.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=quav3vvlcv}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ii0ejbda9m",
+      "Integrity": "5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jc0xykx36o-w8z8nztz7x.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "EquipmentRental#[.{fingerprint=w8z8nztz7x}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t35gwt53u5",
+      "Integrity": "2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jckciniir1-w8z8nztz7x.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "EquipmentRental#[.{fingerprint=w8z8nztz7x}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t35gwt53u5",
+      "Integrity": "2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\v8wtk1wru2-8inm30yfxf.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vh41rynal3-3hm3mblj9e.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=3hm3mblj9e}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "60tdrxnrot",
+      "Integrity": "FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\yf36a5g8qz-6gzpyzhau4.gz",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "EquipmentRental#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "w8z8nztz7x",
+      "Integrity": "cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "EquipmentRental#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "w8z8nztz7x",
+      "Integrity": "cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "quav3vvlcv",
+      "Integrity": "Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\customer.png",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/customer#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mk8yakkuy6",
+      "Integrity": "5jkwIFODMWMQ8NCfMDznsAMpwpugx6zxBZxlfg4mLpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\customer.png"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\equipment.png",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/equipment#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jfynhctmk3",
+      "Integrity": "8UD9O3byiIizCsbVF6h/tm9PBU1gNNr/SmGgnANx40k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\equipment.png"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\rental.png",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/rental#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "swe2sc86c2",
+      "Integrity": "BPw+q+Wai2fsHgpE9N2YLZ6Q/0IcmDX2r1n5MOnYPX8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\rental.png"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\report.png",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/report#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iopqk7hras",
+      "Integrity": "fhuHlY5E1pnixv8rWNOrd4erT2z3DSNzGVP0GPtrzSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\report.png"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\search.png",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/search#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8prjxzlwoa",
+      "Integrity": "/I8kZthkMmgHeC6HSaXsffybqElCgKf1ZYqZDB5TnJo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\search.png"
+    },
+    {
+      "Identity": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html",
+      "SourceId": "EquipmentRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hm3mblj9e",
+      "Integrity": "h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\021e4bwrzk-quav3vvlcv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000502260171"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1990"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\021e4bwrzk-quav3vvlcv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.quav3vvlcv.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\021e4bwrzk-quav3vvlcv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000502260171"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1990"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "quav3vvlcv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.quav3vvlcv.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4096"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "quav3vvlcv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tsis2gxVQ4Wo4bMa0jPgP/8xc7OGoFVD5pk/FToNNmk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.quav3vvlcv.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\021e4bwrzk-quav3vvlcv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 08:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "quav3vvlcv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5rYm2CdYjFnOpWGMWlAZb/EuQc06ST9nNm6rtSm4O58="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\yf36a5g8qz-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\yf36a5g8qz-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\yf36a5g8qz-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\v8wtk1wru2-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\v8wtk1wru2-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\yf36a5g8qz-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\v8wtk1wru2-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\v8wtk1wru2-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jckciniir1-w8z8nztz7x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jckciniir1-w8z8nztz7x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.styles.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jc0xykx36o-w8z8nztz7x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.styles.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.styles.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jc0xykx36o-w8z8nztz7x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jckciniir1-w8z8nztz7x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\EquipmentRental.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jckciniir1-w8z8nztz7x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.styles.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jc0xykx36o-w8z8nztz7x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000738552437"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.styles.css",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\EquipmentRental.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNeKJ/xdLrRzH7xRMnEGedeyfCigeJFfeEkXIS55mOk="
+        }
+      ]
+    },
+    {
+      "Route": "EquipmentRental.w8z8nztz7x.styles.css.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\jc0xykx36o-w8z8nztz7x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 02:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8z8nztz7x"
+        },
+        {
+          "Name": "label",
+          "Value": "EquipmentRental.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2UGMVi2ydHh5GSBeCqxqLyEFk2T0NbLnjHyoTktLU6I="
+        }
+      ]
+    },
+    {
+      "Route": "images/customer.mk8yakkuy6.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\customer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5jkwIFODMWMQ8NCfMDznsAMpwpugx6zxBZxlfg4mLpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mk8yakkuy6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/customer.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5jkwIFODMWMQ8NCfMDznsAMpwpugx6zxBZxlfg4mLpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/customer.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\customer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5jkwIFODMWMQ8NCfMDznsAMpwpugx6zxBZxlfg4mLpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5jkwIFODMWMQ8NCfMDznsAMpwpugx6zxBZxlfg4mLpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/equipment.jfynhctmk3.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\equipment.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UD9O3byiIizCsbVF6h/tm9PBU1gNNr/SmGgnANx40k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jfynhctmk3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/equipment.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UD9O3byiIizCsbVF6h/tm9PBU1gNNr/SmGgnANx40k="
+        }
+      ]
+    },
+    {
+      "Route": "images/equipment.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\equipment.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UD9O3byiIizCsbVF6h/tm9PBU1gNNr/SmGgnANx40k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UD9O3byiIizCsbVF6h/tm9PBU1gNNr/SmGgnANx40k="
+        }
+      ]
+    },
+    {
+      "Route": "images/rental.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\rental.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPw+q+Wai2fsHgpE9N2YLZ6Q/0IcmDX2r1n5MOnYPX8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:56:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPw+q+Wai2fsHgpE9N2YLZ6Q/0IcmDX2r1n5MOnYPX8="
+        }
+      ]
+    },
+    {
+      "Route": "images/rental.swe2sc86c2.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\rental.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPw+q+Wai2fsHgpE9N2YLZ6Q/0IcmDX2r1n5MOnYPX8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:56:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swe2sc86c2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/rental.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPw+q+Wai2fsHgpE9N2YLZ6Q/0IcmDX2r1n5MOnYPX8="
+        }
+      ]
+    },
+    {
+      "Route": "images/report.iopqk7hras.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\report.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhuHlY5E1pnixv8rWNOrd4erT2z3DSNzGVP0GPtrzSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iopqk7hras"
+        },
+        {
+          "Name": "label",
+          "Value": "images/report.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhuHlY5E1pnixv8rWNOrd4erT2z3DSNzGVP0GPtrzSk="
+        }
+      ]
+    },
+    {
+      "Route": "images/report.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\report.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fhuHlY5E1pnixv8rWNOrd4erT2z3DSNzGVP0GPtrzSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fhuHlY5E1pnixv8rWNOrd4erT2z3DSNzGVP0GPtrzSk="
+        }
+      ]
+    },
+    {
+      "Route": "images/search.8prjxzlwoa.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\search.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/I8kZthkMmgHeC6HSaXsffybqElCgKf1ZYqZDB5TnJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8prjxzlwoa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/search.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/I8kZthkMmgHeC6HSaXsffybqElCgKf1ZYqZDB5TnJo="
+        }
+      ]
+    },
+    {
+      "Route": "images/search.png",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\search.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/I8kZthkMmgHeC6HSaXsffybqElCgKf1ZYqZDB5TnJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:36:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/I8kZthkMmgHeC6HSaXsffybqElCgKf1ZYqZDB5TnJo="
+        }
+      ]
+    },
+    {
+      "Route": "index.3hm3mblj9e.html",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vh41rynal3-3hm3mblj9e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002262443439"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hm3mblj9e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs="
+        }
+      ]
+    },
+    {
+      "Route": "index.3hm3mblj9e.html",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hm3mblj9e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs="
+        }
+      ]
+    },
+    {
+      "Route": "index.3hm3mblj9e.html.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vh41rynal3-3hm3mblj9e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hm3mblj9e"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vh41rynal3-3hm3mblj9e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002262443439"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4YXgaDJJr5P6kpbE0jILke4afz1fux4k20A+EKuOIs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\vh41rynal3-3hm3mblj9e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 12:09:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FiOku9NSbm9ZHgSW6gis34XO0XPwQcZABLZ4RX01qxo="
+        }
+      ]
+    }
+  ]
+}

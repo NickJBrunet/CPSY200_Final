@@ -1,0 +1,93 @@
+﻿@page "/"
+@using EquipmentRental.Data;
+@inject ModalService ModalService
+
+<div class="main-container">
+    <div class="left-container">
+        <div class="body">
+            <div class="register-container center">
+                <h4>Add New Equipment:</h4>
+                <input type="text" class="form-control" placeholder="Enter Category Id" @bind-value="categoryId">
+                <input type="text" class="form-control" placeholder="Enter Name" @bind-value=name>
+                <input type="text" class="form-control" placeholder="Enter Description" @bind-value=description>
+                <input type="text" class="form-control" placeholder="Enter Daily Cost" @bind-value=dailyRentalCost>
+                <button type="submit" class="btn btn-primary" @onclick="() => RegisterEquipment(categoryId, name, description, dailyRentalCost)">Add</button>
+            </div>
+            <div class="search-container">
+                <h4>Search Equipment By:</h4>
+                <select class="form-select" @bind="searchInputType">
+                    <option value="Equipment Id">Equipment Id</option>
+                    <option value="Category Id">Category Id</option>
+                </select>
+
+                <div class="search-input">
+                    <input type="text" class="form-control" placeholder="@searchInputType" @bind="searchInputField">
+                    <button type="submit" class="btn btn-primary" @onclick="SearchByFilter">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="middle-container">
+        <div class="header">
+            <h3>List of Equipment:</h3>
+        </div>
+        <div class="body">
+            <div class="scroll-container">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr class="center">
+                            <th scope="col">Equipment Id</th>
+                            <th scope="col">Category Id</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Daily Rental Cost</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Equipment equipment in equipments)
+                        {
+                            <tr class="center">
+                                <th scope="row">@equipment.equipmentId</th>
+                                <th scope="row">@equipment.categoryId</th>
+                                <td>@equipment.name</td>
+                                <td>@equipment.description</td>
+                                <td>$@equipment.dailyRentalCost</td>
+                                <td>
+                                    <button type="submit" class="btn btn-primary btn-sm" @onclick="() => RemoveEquipment(equipment)">x</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <button type="submit" class="btn btn-primary">Generate Report</button>
+        </div>
+    </div>
+    <div class="right-container">
+        <div class="header">
+            <h3>Categories:</h3>
+        </div>
+        <div class="body">
+            <div class="scroll-container">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr class="center">
+                            <th scope="col">Category Id</th>
+                            <th scope="col">Category Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Category category in categories)
+                        {
+                            <tr class="center">
+                                <th scope="row">@category.categoryId</th>
+                                <td>@category.name</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

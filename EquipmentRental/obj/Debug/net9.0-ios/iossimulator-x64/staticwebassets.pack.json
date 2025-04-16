@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\EquipmentRental.styles.css",
+      "PackagePath": "staticwebassets\\EquipmentRental.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\customer.png",
+      "PackagePath": "staticwebassets\\images\\customer.png"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\equipment.png",
+      "PackagePath": "staticwebassets\\images\\equipment.png"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\rental.png",
+      "PackagePath": "staticwebassets\\images\\rental.png"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\report.png",
+      "PackagePath": "staticwebassets\\images\\report.png"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\Nickj\\source\\repos\\EquipmentRental\\EquipmentRental\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.EquipmentRental.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.EquipmentRental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.build.EquipmentRental.props",
+      "PackagePath": "build\\EquipmentRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildMultiTargeting.EquipmentRental.props",
+      "PackagePath": "buildMultiTargeting\\EquipmentRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-ios\\iossimulator-x64\\staticwebassets\\msbuild.buildTransitive.EquipmentRental.props",
+      "PackagePath": "buildTransitive\\EquipmentRental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

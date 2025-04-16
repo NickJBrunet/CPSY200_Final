@@ -1,0 +1,45 @@
+﻿@inherits LayoutComponentBase
+@using EquipmentRental.Shared
+
+<Modal />
+
+<div class="page">
+
+    <main>
+        <div class="nav-container center">
+            <div class="nav-container-left center">
+                Equipment Rental Manager <a id="author">By Nick Brunet</a>
+            </div>
+            <div class="nav-container-right">
+                <NavLink class="nav-link" href="/">
+                    <div class="nav-item nav-padding-1 nav-align-1 center">
+                        <img src="images/equipment.png">
+                        <span>Equipment</span>
+                    </div>
+                </NavLink>
+                <NavLink class="nav-link" href="customers">
+                    <div class="nav-item nav-padding-1 nav-align-1 center">
+                        <img src="images/customer.png">
+                        <span>Customers</span>
+                    </div>
+                </NavLink>
+                <NavLink class="nav-link" href="rentals">
+                    <div class="nav-item nav-padding-1 nav-align-1 center">
+                        <img src="images/rental.png">
+                        <span>Rentals</span>
+                    </div>
+                </NavLink>
+                @* <NavLink class="nav-link" href="reports"> *@
+                @*     <div class="nav-item nav-padding-1 nav-align-1 center"> *@
+                @*         <img src="images/report.png"> *@
+                @*         <span>Reports</span> *@
+                @*     </div> *@
+                @* </NavLink> *@
+            </div>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>

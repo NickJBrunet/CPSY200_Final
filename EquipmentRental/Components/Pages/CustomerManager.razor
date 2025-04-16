@@ -1,0 +1,85 @@
+﻿@page "/customers"
+@using EquipmentRental.Data;
+@inject ModalService ModalService
+
+<div class="main-container">
+    <div class="left-container">
+        <div class="body">
+            <div class="register-container">
+                <h4>Add New Customer:</h4>
+                <input type="text" class="form-control" placeholder="Enter Last Name" @bind-value=lastName>
+                <input type="text" class="form-control" placeholder="Enter First Name" @bind-value=firstName>
+                <input type="text" class="form-control" placeholder="Enter Phone Number" @bind-value=phoneNumber>
+                <input type="text" class="form-control" placeholder="Enter Email" @bind-value=email>
+                <button type="submit" class="btn btn-primary" @onclick="() => RegisterCustomer(lastName, firstName, phoneNumber, email)">Add</button>
+            </div>
+            <div class="search-container">
+                <h4>Search Customers By:</h4>
+                <select class="form-select" @bind="searchInputType">
+                    <option value="Customer Id">Customer Id</option>
+                    <option value="Last Name">Last Name</option>
+                    <option value="First Name">First Name</option>
+                </select>
+
+                <div class="search-input">
+                    <input type="text" class="form-control" placeholder="@searchInputType" @bind="searchInputField">
+                    <button type="submit" class="btn btn-primary" @onclick="SearchByFilter">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right-container">
+        <div class="header">
+            <h3>Registered Customers:</h3>
+        </div>
+        <div class="body">
+            <div class="scroll-container">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">Customer Id</th>
+                            <th scope="col">Last Name</th>
+                            <th scope="col">First Name</th>
+                            <th scope="col">Phone Number</th>
+                            <th scope="col">Email</th>
+                            <th scope="col">Manager Note</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Customer customer in customers)
+                        {
+                            <tr class="center">
+                                <th scope="row">@customer.customerId</th>
+                                <td>@customer.lastName</td>
+                                <td>@customer.firstName</td>
+                                <td>@customer.phoneNumber</td>
+                                <td>@customer.email</td>
+                                @if (!string.IsNullOrEmpty(customer.managerNote))
+                                {
+                                    <td>
+                                        @customer.managerNote
+                                    </td>
+                                    <td>
+                                        <button type="submit" class="btn btn-primary btn-sm" @onclick="() => EditManagerNote(customer)">remove note</button>
+                                    </td>
+                                }
+                                else
+                                {
+                                    <td>
+                                        <input type="text" class="form-control form-control-sm" placeholder="Enter new manager note" @bind-value=newManagerNote>
+                                    </td>
+                                    <td>
+                                        <button type="submit" class="btn btn-primary btn-sm" @onclick="() => EditManagerNote(customer)">add note</button>
+                                    </td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <button type="submit" class="btn btn-primary">Generate Report</button>
+        </div>
+    </div>
+</div>
+

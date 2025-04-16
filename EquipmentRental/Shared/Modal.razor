@@ -1,0 +1,41 @@
+﻿@inject ModalService ModalService
+
+@if (_isVisible)
+{
+    <div class="modal-backdrop">
+        <div class="modal-content">
+            <h3 style="color:@_titleColor">@_title</h3>
+            <p>@_message</p>
+        </div>
+    </div>
+}
+
+@code {
+    private bool _isVisible;
+    private string _title;
+    private string _message;
+    private string _titleColor = "black";
+
+    protected override void OnInitialized()
+    {
+        ModalService.OnShow -= ShowModal;
+        ModalService.OnShow += ShowModal;
+    }
+
+    private Task ShowModal(string title, string message, string titleColor)
+    {
+        _title = title;
+        _message = message;
+        _titleColor = titleColor;
+        _isVisible = true;
+        StateHasChanged();
+        return AutoCloseMessage();
+    }
+
+    private async Task AutoCloseMessage()
+    {
+        await Task.Delay(2000);
+        _isVisible = false;
+        StateHasChanged();
+    }
+}

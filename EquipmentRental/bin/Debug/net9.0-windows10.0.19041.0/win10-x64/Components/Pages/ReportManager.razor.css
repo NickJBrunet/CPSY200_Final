@@ -1,0 +1,32 @@
+﻿.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-container {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+
+.right-container {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+.header {
+    text-align: center;
+    border: 1px solid black;
+    height: 10%;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    border: 1px solid black;
+    height: 90%;
+    align-items: center;
+}

@@ -1,0 +1,69 @@
+﻿@page "/rentals"
+@using EquipmentRental.Data
+@inject ModalService ModalService
+
+<div class="main-container">
+    <div class="left-container">
+        <div class="body">
+            <div class="register-container center">
+                <h4>Add New Rental:</h4>
+                <input type="text" class="form-control" placeholder="Enter Equipment Id" @bind-value=equipmentId>
+                <input type="text" class="form-control" placeholder="Enter Customer Id" @bind-value=customerId>
+                <input type="text" class="form-control" placeholder="Enter Rental Date" @bind-value=rentalDate>
+                <input type="text" class="form-control" placeholder="Enter Return Date" @bind-value=returnDate>
+                <button type="submit" class="btn btn-primary" @onclick="() => RegisterRental(equipmentId, customerId, rentalDate, returnDate)">Add</button>
+            </div>
+            <div class="search-container">
+                <h4>Search Rentals By:</h4>
+                <select class="form-select" @bind="searchInputType">
+                    <option value="Equipment Id">Equipment Id</option>
+                    <option value="Customer Id">Customer Id</option>
+                </select>
+
+                <div class="search-input">
+                    <input type="text" class="form-control" placeholder="@searchInputType" @bind="searchInputField">
+                    <button type="submit" class="btn btn-primary" @onclick="SearchByFilter">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="right-container">
+        <div class="header">
+            <h3>List of Rentals:</h3>
+        </div>
+        <div class="body">
+            <div class="scroll-container">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr class="center">
+                            <th scope="col">Rental Id</th>
+                            <th scope="col">Equipment Id</th>
+                            <th scope="col">Equipment Name</th>
+                            <th scope="col">Customer Id</th>
+                            <th scope="col">Customer Last Name</th>
+                            <th scope="col">Rental Date</th>
+                            <th scope="col">Return Date</th>
+                            <th scope="col">Total Cost</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Rental rental in rentals)
+                        {
+                            <tr class="center">
+                                <th scope="row">@rental.rentalId</th>
+                                <th scope="row">@rental.equipmentId</th>
+                                <td>@equipmentManager.GetEquipment(rental.equipmentId).name</td>
+                                <th scope="row">@rental.customerId</th>
+                                <td>@customerManager.GetCustomer(rental.customerId).lastName</td>
+                                <td>@rental.rentalDate</td>
+                                <td>@rental.returnDate</td>
+                                <th scope="row">$@GetTotalCost(rental)</th>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <button type="submit" class="btn btn-primary">Generate Report</button>
+        </div>
+    </div>
+</div>

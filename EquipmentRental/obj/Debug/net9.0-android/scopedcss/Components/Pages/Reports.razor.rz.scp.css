@@ -1,0 +1,32 @@
+.main-container[b-e6t3b05e4c] {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-container[b-e6t3b05e4c] {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+
+.right-container[b-e6t3b05e4c] {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+.header[b-e6t3b05e4c] {
+    text-align: center;
+    border: 1px solid black;
+    height: 10%;
+}
+
+.body[b-e6t3b05e4c] {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    border: 1px solid black;
+    height: 90%;
+    align-items: center;
+}

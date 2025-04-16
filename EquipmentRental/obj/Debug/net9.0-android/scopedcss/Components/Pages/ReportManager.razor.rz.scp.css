@@ -1,0 +1,32 @@
+.main-container[b-lzci825pqf] {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-container[b-lzci825pqf] {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+
+.right-container[b-lzci825pqf] {
+    border: 1px solid black;
+    width: 50%;
+    height: 40rem;
+}
+
+.header[b-lzci825pqf] {
+    text-align: center;
+    border: 1px solid black;
+    height: 10%;
+}
+
+.body[b-lzci825pqf] {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    border: 1px solid black;
+    height: 90%;
+    align-items: center;
+}
